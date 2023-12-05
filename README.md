@@ -8,12 +8,14 @@
  I don't like leaving projects or jobs unfinished, I always want to finish them, I like programming, analyzing and correcting errors, making designs of all kinds, to be able to develop my skills and abilities.</h6>
  <h2>Skills</h2>
  <ul>
-    <li>Software development</li>
-    <li>Web development</li>
-    <li>Database development</li>
-    <li>Analytical capacity</li>
-    <li>Teamwork or alone</li>
-    <li>Proactive</li>
-    <li>Web design</li>
-    <li>Logo design</li>
+    <li>Software development.</li>
+    <li>Web development.</li>
+    <li>Database development.</li>
+    <li>Analytical capacity.</li>
+    <li>Teamwork or alone.</li>
+    <li>Proactive.</li>
+    <li>Web design.</li>
+    <li>Logo design.</li>
  </ul>
+ <h2>Languages ​​and tools:</h2>
+ <section></section>
